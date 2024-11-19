@@ -1,0 +1,16 @@
+ 1188  git commit
+ 1189  git push origin
+ 1190  docker-compose build
+ 1191  docker-compose build
+ 1192  docker-compose up
+ 1193  docker-compose up
+ 1194  docker-compose up
+ 1195  docker-compose up
+ 1196  docker-compose up
+ 1197  docker-compose up
+ 1198  git add .
+ 1199  git commit -am "added db"
+ 1200  git push origin
+ 1201  docker-compose up
+ 1202  docker-compose up
+ 1203  docker-compose up
